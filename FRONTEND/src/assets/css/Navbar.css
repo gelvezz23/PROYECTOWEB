@@ -1,0 +1,36 @@
+.btn-clic2work{
+    background-color: #ff4b00 ;
+    border-radius: 25px;
+}
+
+.btn-clic2work-blue{
+    background-color: #006eff ;
+    padding: 5px;
+    border-radius: 25px;
+
+}
+.clic2work-color{
+    background-color: #ff4b00 ;
+}
+.btn-clic2work-orange{
+    background-color: #ff4b00 ;
+    padding: 5px;
+    border-radius: 25px;
+
+}
+.btn-clic2work-red{
+    background-color: #ff3434 ;
+    padding: 5px;
+    border-radius: 25px;
+
+}
+a:hover{
+    color: white;
+}
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    .item-navbar{
+        display: none;
+    }
+  }
